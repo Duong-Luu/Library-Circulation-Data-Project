@@ -1,0 +1,32 @@
+1	!	On Hold Shelf
+2	#	Link+ Recieved
+3	$	Lost and Paid
+4	%	Link+ Returned
+5	&	Link+ Requested
+6	(	Link+ Paged
+7	)	Link+ Cancelled
+8	+	Renew Pending
+9	-	CHECK SHELF
+10	@	Link+ Loaned
+11	_	Link+ Re-Requested
+12	a	ASK AT DESK
+13	b	BINDERY
+14	d	DAMAGED
+15	e	EN ROUTE
+16	f	Off Site
+17	g	Mending
+18	h	TOO LONG IN TRANSIT
+19	i	INTERNET
+20	l	LOST
+21	m	MISSING
+22	n	BILLED
+23	o	On Display
+24	p	Processing
+25	r	REORDERED
+26	s	DISPLAY AREA
+27	t	IN TRANSIT
+28	u	STORAGE
+29	v	MISSING PART
+30	w	WITHDARWN
+31	x	Problem Record
+32	z	Claimed Return

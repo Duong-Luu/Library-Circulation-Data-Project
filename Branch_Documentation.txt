@@ -1,0 +1,13 @@
+1	0k 	Bookmobile
+2	1a	Atherton
+3	1b	Belmont
+4	1r	Brisbane
+5	1e	East Palo Alto
+6	1f	Foster City
+7	1h	Half Moon Bay
+8	1m	Millbrae
+9	1p	Pacifica Sharp Park
+10	1z	Pacifica Sanchez
+11	1s	San Carlos
+12	1v	Portola Valley
+13	1w	Woodside

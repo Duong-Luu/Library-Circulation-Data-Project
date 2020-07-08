@@ -1,0 +1,77 @@
+1	ART		Titles on Art generally
+
+2	BIO		Collective biographical works
+
+3	BUSINESS	General titles about Business
+
+4	COLLECT		Titles about Antiques and Collectibles,
+
+5	COMPUTE		Books on computers and computing in general
+
+6	CONSUMER	Consumer Report annual
+
+7	COOKING		Cooking, cookbooks and cooking vegetables
+
+8	CRAFT		Includes titles on general crafts
+
+9	EDUCATE		Titles on education in an educational setting: history, styles and methods
+
+10	FARMING		Farm life, organic farming; growing crops, fruits and vegetables, history of farming
+
+11	GAME		All titles about games and gaming
+
+12	GARDEN		Works on gardening in general; gardening encyclopedias, Sunset Western Garden Book, gardening
+
+13	GENEALGY	All aspects, how to search, family histories, crests, surnames, etc.
+
+14	HEALTH		Health and healthy living; healthy aging, hygiene, first aid, dental, hospitalization, general health
+
+15	HISTORY		History Books
+
+16	HOBBY		Titles about hobbies in general and specific hobbies.
+
+17	HOLIDAY		Holiday books that cover any holiday or holidays by seasons
+
+18	HOME		Books about the history of homes and home care in general:
+
+19	LANG INST	Basic phrase books including more than one language, traveler's dictionary, international gestures
+
+20	LAW		Titles on or about laws and all things legal; law dictionaries, legal terms,
+
+21	LIFE		Family tree, special needs, blended families; adoption.
+
+22	LIT		collections of literature
+
+23	MYTH/FLK	General fairytales, (e.g., Celtic Fairytales) including: Urban legends,
+
+24	NATURE		Nature, natural history generally; seasons, conservation and protection, wildfires; endangered species
+
+25	PARTY		Planning and decorating for events, parties and celebrations of any kind, including table settings,
+
+26	PERS FIN	Personal finance titles
+
+27	PET		titles on general care of typical household pets; pet stories & guides;
+
+28	PHILSOPH	Titles on or about Classical western or eastern philosophical thought,
+
+29	PSYCH		Titles related to psychological research and study both academic and professional
+
+30	RELIGION	Books that survey world religions, comparative religions, studies of religion or faith,
+
+31	SCIENCE		Science generally
+
+32	SELFHELP	Titles related to self improvement by one's own efforts without medical intervention.
+
+33	SPIRIT		Spirituality, meditation, mysticism, Shamanism, Feng Shui
+
+34	SOC SCI		General titles on or about social sciences; includes works about the impact of technology on society
+
+35	SPORT		General sports
+
+36	TECH		Technology
+
+37	TRANSPRT	Titles about transportation;
+
+38	TRAVEL		Armchair travel
+
+39	TRIBE		Titles that cover Native American tribes;
